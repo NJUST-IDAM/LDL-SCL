@@ -7,8 +7,11 @@ on the relative importance of different labels to a particular instance.
 
 Publication
 --
-Code accompanying papers **Label distribution learning by exploiting sample correlations locally**. AAAI 2018.
+Code accompanying papers 
+
+**Label distribution learning by exploiting sample correlations locally**. AAAI 2018.
 https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16664
+
 **Distribution Learning with Label Correlations on Local Samples**. TKDE 2019.
 https://ieeexplore.ieee.org/document/8847453
 
